@@ -9,7 +9,7 @@ Shoppy Globe is a fully responsive e-commerce web application that provides user
 
 # Installation
 1. Clone the repository:
-    * git clone https://github.com/Charu-30/Online-Library-System.git
+    * git clone https://github.com/Charu-30/Shoppy-Globe-Ecommerce-Website.git
 
 2. Navigate to the project directory:
     * cd vite-project

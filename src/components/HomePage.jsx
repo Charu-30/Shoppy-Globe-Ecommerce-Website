@@ -1,4 +1,4 @@
-import bg1 from '../assets/bg19.jpg';
+import bg from '../assets/bg.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLock, faMapPin, faShippingFast, faUndo } from '@fortawesome/free-solid-svg-icons';
 import TrendingProducts from './TrendingProducts';
@@ -30,7 +30,7 @@ function HomePage(){
         <div>
             {/* Hero Section */}
             <div className="relative min-h-screen w-full bg-cover bg-center flex pt-36 justify-center px-4 text-center "
-                style={{backgroundImage: `url(${bg1})`}}>
+                style={{backgroundImage: `url(${bg})`}}>
                     <div className='absolute inset-0 bg-opacity-5 backdrop-blur-sm'></div>
                     <div className='relative p-6 rounded-lg max-w-6xl'>
                         <h1 className=' font-bold text-red-950 text-center text-4xl sm:text-5xl lg:text-6xl font-serif italic'>Welcome to Shoppy Globe</h1>

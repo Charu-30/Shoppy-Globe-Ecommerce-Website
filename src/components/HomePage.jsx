@@ -54,7 +54,7 @@ function HomePage(){
                     {categories.map((category)=>(
                         <div key={category} className='relative h-64 hover:scale-105'>
                             <Link to="/productlist" state={{category: category}}>
-                                <img src={`src/assets/${category}.jpg`} 
+                                <img src={`${category}.jpg`} 
                                 alt={category}
                                 className='w-full h-full object-cover rounded-lg' 
                             />

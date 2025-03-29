@@ -7,7 +7,7 @@ Shoppy Globe is a fully responsive e-commerce web application that provides user
 * State Management: Redux
 * Routing: React Router DOM
 
-# Installation
+# Insnotallation
 1. Clone the repository:
     * git clone https://github.com/Charu-30/Shoppy-Globe-Ecommerce-Website.git
 
